@@ -1,2 +1,2 @@
 Emoji prediction using text input and a stacked LSTM Model and Glove Vectors
-to identify 
+to identify the emoji to go along with the text.
